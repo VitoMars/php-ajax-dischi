@@ -6,11 +6,13 @@
 
 .header {
   display: flex;
+  justify-content: space-between;
   align-items: center;
   height: 10vh;
   width: 100%;
   padding: 0px 50px;
   background-color: #2e3a46;
+  /* background-color: red; */
 }
 
 .img {
